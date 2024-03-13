@@ -37,7 +37,7 @@ a {
     width: 95%;
     min-height: 98vh;
     max-width: 900px;
-    margin: auto;
+    margin: 20px auto 0 auto;
 }
 
 .card {
